@@ -80,11 +80,24 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
 ### Screenshots
 
 - **Card Detection**  
-  <p align="center">
-    <img src="https://i.imghippo.com/files/AhZ3140JA.png" alt="First Image" width="300"/>
-    <img src="https://i.imghippo.com/files/Kpe7957MCY.png" alt="Second Image" width="300"/>
-    <img src="https://i.imghippo.com/files/BHnE1288U.png" alt="Second Image" width="300"/>
-  </p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/AhZ3140JA.png" alt="First Image" width="300"/><br>
+      <b>Detected 2 of Diamonds with Confidence of 99%</b>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Kpe7957MCY.png" alt="Second Image" width="300"/><br>
+      <b>Detected Ace of Hearts with confidence of 84% </b>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/BHnE1288U.png" alt="Third Image" width="300"/><br>
+      <b>Detected Four of Clubs with confidence of 98%</b>
+    </td>
+  </tr>
+</table>
+
+
 
 
 - **Chip Classification**  

@@ -1,6 +1,6 @@
 # Poker Dealer Robotic Arm
 
-An automated poker dealer system that uses computer vision, machine learning, and robotics to detect playing cards, classify chip stacks, and manage poker gameplay with minimal human intervention. This project integrates state-of-the-art techniques ncluding YOLOv8-based card recognition, color histogram features with a Random Forest chip classifier, and hand-eye calibration using a ChArUco board to control a robotic arm that deals cards and distributes chips in real time.
+An automated poker dealer system that uses computer vision, machine learning, and robotics to detect playing cards, classify chip stacks, and manage poker gameplay with minimal human intervention. This project integrates state-of-the-art techniques including YOLOv8-based card recognition, color histogram features with a Random Forest chip classifier, and hand-eye calibration using a ChArUco board to control a robotic arm that deals cards and distributes chips in real time.
 
 ## Table of Contents
 
@@ -113,7 +113,7 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
     </td>
     <td align="center">
       <img src="https://i.imghippo.com/files/JHQ6355HU.png" alt="Third Image" width="300"/><br>
-      <b>Fianl Decision based off majority.</b>
+      <b>Final Decision based off majority.</b>
     </td>
   </tr>
 </table>

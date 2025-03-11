@@ -101,7 +101,22 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
 
 
 - **Chip Classification**  
-  ![Chip Classification](images/chip_detection_example.png)
+  <table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/Jbmz6014EbM.png" alt="First Image" width="300"/><br>
+      <b>Classification result of 19th Frame.</b>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/kcLP4518kA.png" alt="Second Image" width="300"/><br>
+      <b>Classification result of 20th Frame. </b>
+    </td>
+    <td align="center">
+      <img src="https://i.imghippo.com/files/JHQ6355HU.png" alt="Third Image" width="300"/><br>
+      <b>Fianl Decision based off majority.</b>
+    </td>
+  </tr>
+</table>
 
 ### Demo Video
 

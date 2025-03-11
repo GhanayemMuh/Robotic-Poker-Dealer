@@ -80,7 +80,8 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
 ### Screenshots
 
 - **Card Detection**  
-  ![Card Detection](images/card_detection_example.png)
+  ![Card Detection](![image](https://github.com/user-attachments/assets/dff04095-efbe-4d50-83f1-00adf7c0df69)
+)
 
 - **Chip Classification**  
   ![Chip Classification](images/chip_detection_example.png)

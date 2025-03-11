@@ -120,7 +120,7 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
 
 ### Demo Video
 
-Watch our demo video [here](https://example.com/demo-video).
+Watch our demo video [here](https://youtu.be/UZqYk-UTuAs).
 
 ## Contributing
 

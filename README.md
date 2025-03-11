@@ -120,7 +120,7 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
 
 ### Demo Video
 
-Watch our demo video [here](https://youtu.be/UZqYk-UTuAs).
+[![Watch the video](https://github.com/GhanayemMuh/Poker-Dealer/blob/main/Video.gif)](https://youtu.be/UZqYk-UTuAs).
 
 ## Contributing
 

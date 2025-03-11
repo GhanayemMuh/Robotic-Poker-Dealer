@@ -8,7 +8,6 @@ An automated poker dealer system that uses computer vision, machine learning, an
 - [Features](#features)
 - [System Architecture](#system-architecture)
 - [Installation & Dependencies](#installation--dependencies)
-- [Usage](#usage)
 - [Calibration Process](#calibration-process)
 - [Screenshots & Demo](#screenshots--demo)
 - [Contributing](#contributing)
@@ -66,6 +65,15 @@ Ensure you have **Python 3.7+** installed. Then install the required packages:
 ```shell
 pip install opencv-python numpy scipy scikit-learn joblib pyrealsense2 Pillow treys inference_sdk
 ```
+
+## Calibration Process
+
+The calibration module (`calibration.py`) uses a ChArUco board to:
+- Detect ArUco markers in a series of images.
+- Compute intrinsic camera parameters and distortion coefficients.
+- Estimate the transformation from the camera to the robot’s end-effector using hand-eye calibration.
+
+Calibration results are saved to `hand_eye_calibration_results.npz` for future runs.
 
 ## Screenshots & Demo
 

@@ -82,7 +82,8 @@ Calibration results are saved to `hand_eye_calibration_results.npz` for future r
 - **Card Detection**  
   <p align="center">
     <img src="https://i.imghippo.com/files/AhZ3140JA.png" alt="First Image" width="300"/>
-    <img src="https://i.imghippo.com/files/AhZ3140JA.png" alt="Second Image" width="300"/>
+    <img src="https://i.imghippo.com/files/Kpe7957MCY.png" alt="Second Image" width="300"/>
+    <img src="https://i.imghippo.com/files/BHnE1288U.png" alt="Second Image" width="300"/>
   </p>
 
 
